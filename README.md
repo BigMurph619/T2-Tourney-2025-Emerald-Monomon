@@ -68,7 +68,7 @@ FREE.99
 
 ## Awards
 
-Earn points towards the Murphleague.
+Earn points towards the [Murphleague](https://github.com/TakeJoshyy/TheMurphVerse/tree/main/2.Tournaments/1.MurphLeague-2025).
 
 Top 3 placements will receive bits from Murph: 1st: 2500 bits, 2nd: 1500 bits, 3rd: 1000 bits. There is NO COST for the awards pool this tournament! Simply follow the instructions in the discord to join and be eligible.
 
