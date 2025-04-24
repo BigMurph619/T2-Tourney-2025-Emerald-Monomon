@@ -22,6 +22,7 @@ FREE.99
 
 |           Points                                  |
 | :-----------------------------------------------: |
+| Petalburg Woods Aqua Grunt                        |
 | Roxanne                                           |
 | Rustboro Rival                                    |
 | Soda Pop Shack Full Clear                         |
