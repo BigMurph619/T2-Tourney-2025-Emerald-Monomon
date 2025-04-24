@@ -64,7 +64,7 @@ FREE.99
 | :-----------------------: |
 | Any Pokemon that is 440 BST or lower will accumulate DOUBLE points. If the Pokemon is evolved into over 440 BST it will resume receiving standard points.                |
 | Fastest mach bike time (3 tries each run). Each run that makes it to cycling road will give you 3 tries to record your best time on the Mach Bike. Must be done at %100 speed. No practice runs, no redos. As you update your scores, update your best OVERALL time (from all runs, not each run). At the end of the tourney, whoever has the fastest time (confirmed with a clip) will earn 1 bonus tourney point. |
-| Best Base? *would need Secret Power patched in somehow. Voted on by the community |
+| Make-a-wish foundation: Visit a sick little girl, make her laugh and earn a special gift! Send me a clip of your special prize and the meaning of friendship will earn you 1 bonus point!|
 
 ## Awards
 
